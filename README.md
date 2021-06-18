@@ -1,5 +1,18 @@
-<<<<<<< HEAD
 # horiseonChallenge
-=======
 
->>>>>>> cc35184bad078d65b96c40d13f55d2ab4d1ddd3a
+This is the submission README file for the Horiseon Challenge - Module 1 for UCF Boot Camp.
+
+# The link to the page:
+[gracekevin.github.io/horiseonChallenge](https://gracekevin.github.io/horiseonChallenge/)
+
+The updated webpage contains updated linking for the .css file and index.html file. The hardest part of this process was getting the file to publish using Git Pages. I was finally able to work through having to remove the files from the folder included in the original source code.
+
+
+## Here is what the site will look like once loaded to a browser
+
+
+<img src="./images/website.png" alt="Horiseon Site Image">    
+
+
+
+
