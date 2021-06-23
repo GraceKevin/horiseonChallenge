@@ -70,7 +70,7 @@ p {
     margin-left: 25px;
 }
 /* Begin Benefits */
-.benefits {
+#benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -105,7 +105,7 @@ p {
 /* End Benefits */
 
 /* Begin Content */
-.content {
+#content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
